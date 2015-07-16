@@ -1,0 +1,52 @@
+body{
+  background-color: #c4e4ff;
+}
+#container{
+  width: 80%;
+  background-color: transparent;
+  margin:0px auto;
+}
+
+#book_titles{
+  /*height: 200px;*/
+  /*border:1px solid silver;*/
+  overflow: scroll;
+}
+#book_titles ul{
+  list-style-type: none;
+}
+#left{
+  margin-top: 50px;
+}
+#right{
+  padding-top: 20px;
+  text-align: left;
+  height:800px;
+  background-color: #be92cc;
+}
+
+.review{
+  border-top: 1px solid silver;
+  background-color: #eeeddd;
+  padding: 0px 15px 5px 15px;
+  margin-bottom: 8px;
+  border-radius: 4px;
+}
+.review p{
+  word-wrap:break-all;
+}
+#container span{
+  font-size: 10px;
+}
+.author_name{
+  display: block;
+}
+.rating_section img{
+  width: 18px;
+  margin:5px 0px;
+}
+.review_section{
+  padding:10px;
+  background-color: #eee;
+  border:1px dotted #999;
+}

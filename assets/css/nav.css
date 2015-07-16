@@ -1,0 +1,15 @@
+h1{
+  display: inline-block;
+  margin-left: 15px;
+}
+#nav{
+  /*background-color: #79b581;*/
+  background:url('../navbooks.png') 100% 100% repeat-x;
+}
+#nav span{
+  /*display: inline-block;*/
+  vertical-align: bottom;
+  /*margin-left: 700px;*/
+  position: absolute;
+  right:0px;
+}

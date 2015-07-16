@@ -1,0 +1,21 @@
+body{
+  background-color: #c4e4ff;
+}
+form{
+  width:50%;
+  margin:40px auto;
+}
+#author_group{
+  margin-left: 65px;
+}
+#container{
+  padding-top: 15px;
+  background-color: #be92cc;
+  height:100%;
+  width: 65%;
+  margin: 0px auto;
+}
+#container h3{
+  text-align: center;
+  margin-top: 0px;
+}
